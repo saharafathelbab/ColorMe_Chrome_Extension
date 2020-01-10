@@ -12,5 +12,5 @@ color is turned to a navy color. Often times, due to caching, the color of the l
 <b>The result:</b> All links have their intended coloring regardless of caching.
 
 ### Is the extension availale on the Chrome Web Store?
-At the moment no, as there is a $5 fee to making a developer account, I opted to just upload the code onto GitHub. In the future, perhaps.
+At the moment no, I opted to just upload the code onto GitHub.
 
